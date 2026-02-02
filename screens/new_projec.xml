@@ -1,0 +1,5 @@
+<screen>
+	<view flex_flow="column" style_pad_all="8" style_flex_cross_place="center">
+		<!-- <section text="Normal buttons" /> -->
+	</view>
+</screen>

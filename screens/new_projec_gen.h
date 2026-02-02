@@ -1,9 +1,9 @@
 /**
- * @file screen_components_gen.h
+ * @file new_projec_gen.h
  */
 
-#ifndef SCREEN_COMPONENTS_H
-#define SCREEN_COMPONENTS_H
+#ifndef NEW_PROJEC_H
+#define NEW_PROJEC_H
 
 #ifdef __cplusplus
 extern "C" {
@@ -33,7 +33,7 @@ extern "C" {
 
 
 
-lv_obj_t * screen_components_create(void);
+lv_obj_t * new_projec_create(void);
 
 /**********************
  *      MACROS
@@ -43,4 +43,4 @@ lv_obj_t * screen_components_create(void);
 } /*extern "C"*/
 #endif
 
-#endif /*SCREEN_COMPONENTS_H*/
+#endif /*NEW_PROJEC_H*/

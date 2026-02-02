@@ -77,6 +77,9 @@ void new_projec_init_gen(const char * asset_path);
  *   POST INCLUDES
  **********************/
 
+/*Include all the widget and components of this library*/
+#include "screens/new_projec_gen.h"
+
 #ifdef __cplusplus
 } /*extern "C"*/
 #endif
